@@ -1,0 +1,2 @@
+module Ask3 {
+}

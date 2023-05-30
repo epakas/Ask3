@@ -1,0 +1,2 @@
+INDEX VERSION 1.131+E:\epakas\10oejamhno\prohg\Java_MQTT\.metadata\.plugins\org.eclipse.jdt.core
+2037410037.index
